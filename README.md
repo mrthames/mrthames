@@ -18,7 +18,7 @@ I build production AI agents that compress the operational layer of PM work, fre
 |---|---|
 | [simple-pitch-counter](https://github.com/mrthames/simple-pitch-counter) | iOS and Android app built end to end with AI-native development. [simplepitchcounter.com](https://simplepitchcounter.com) |
 | pm-workspace | Private. Personal PM workspace built around agentic AI workflows: CLAUDE.md rules, agent automation, and product operating artifacts (PRDs, status logs, decision trails). |
-| wargear-agent | Private. Autonomous agent that plays Wargear.net, a turn-based strategy game. Combines browser automation, game state memory, and strategic decision-making. |
+| wargear-agent | Private. Autonomous agent that plays Wargear.net, a turn-based strategy game. Combines browser automation, game state memory, and strategic decision-making for AI vs. AI entertainment. |
 | nas-assistant | Private. Signal-to-Claude Code bridge for managing self-hosted NAS services through a messaging interface. Agentic infrastructure management. |
 
 ---
