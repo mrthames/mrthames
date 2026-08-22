@@ -9,6 +9,7 @@ I build production AI agents that compress the operational layer of PM work, fre
 ### 🔨 What I'm Building
 
 - **[lean-pm-skills](https://github.com/mrthames/lean-pm-skills)** - Open-source Claude Code plugin codifying my agentic PM methodology. 15 reusable skills across discovery, execution, alignment, and operations. MIT licensed.
+- **[RatNav](https://github.com/mrthames/RatNav)** - Free Windows planner and in-game overlay for Escape from Tarkov, built and shipped end to end with AI-native development. A WPF desktop app, a local .NET service and a React control panel, with 300+ unit tests and a GitHub Actions release train behind every build. Run like a product, not a side project: versioned releases, a changelog split by who reads it, and a backlog fed by recorded sessions with real players.
 
 ---
 
@@ -31,6 +32,9 @@ I build production AI agents that compress the operational layer of PM work, fre
 ![Claude Design](https://img.shields.io/badge/Claude_Design-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-F3722C?style=flat-square&logo=convex&logoColor=white)
