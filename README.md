@@ -12,21 +12,17 @@ I build production AI agents that compress the operational layer of PM work, fre
 
 ---
 
-### 🧪 Why There Are So Many Side Projects
+### 📂 Projects
 
-Every repo below is the same experiment run with different variables.
+Things I've built with AI-native development, partly for fun and partly to keep experimenting with how these tools hold up in practice.
 
-I'm a product manager, not a hobbyist collecting projects. Each one is a deliberate test of AI-native and AI-augmented workflows: different tools, different models, different orchestration patterns, different kinds of problem. A desktop app teaches me something a mobile app doesn't. An autonomous agent playing a strategy game surfaces failure modes a documentation workflow never will. Shipping to a real app store forces the parts that a demo lets you skip.
-
-The point is to find out what actually holds up, so that what I bring into a professional environment is a practice I've tested rather than a tool I've read about.
-
-| Repository | What it tests |
+| Repository | Description |
 |---|---|
-| RatNav | Private. Desktop and real-time overlay. A WPF app, a local .NET service, and a React control panel, with 300+ unit tests and a GitHub Actions release train. Run like a product: versioned releases, a changelog split by who reads it, and a backlog fed by recorded sessions with real users. |
-| [simple-pitch-counter](https://github.com/mrthames/simple-pitch-counter) | End-to-end mobile delivery, concept through App Store review. [simplepitchcounter.com](https://simplepitchcounter.com) |
-| pm-workspace | Private. Agentic workflows against real work: rules-as-code, scheduled agents, and product operating artifacts (PRDs, status logs, decision trails). |
-| wargear-agent | Private. Autonomous agent that plays Wargear.net, a turn-based strategy game. Browser automation, game state memory, and strategic decision-making. Where I learn how agents fail when nobody is watching. |
-| nas-assistant | Private. Signal-to-Claude Code bridge for managing self-hosted services through a messaging interface. Agentic infrastructure management. |
+| RatNav | Private. Windows planner and in-game overlay for Escape from Tarkov. A WPF desktop app, a local .NET service and a React control panel, with 300+ unit tests and a GitHub Actions release train behind every build. |
+| [simple-pitch-counter](https://github.com/mrthames/simple-pitch-counter) | iOS and Android app, built and shipped end to end. [simplepitchcounter.com](https://simplepitchcounter.com) |
+| pm-workspace | Private. Personal PM workspace built around agentic workflows: CLAUDE.md rules, agent automation, and product operating artifacts (PRDs, status logs, decision trails). |
+| wargear-agent | Private. Autonomous agent that plays Wargear.net, a turn-based strategy game. Browser automation, game state memory, and strategic decision-making. |
+| nas-assistant | Private. Signal-to-Claude Code bridge for managing self-hosted NAS services through a messaging interface. |
 
 ---
 
