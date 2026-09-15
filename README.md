@@ -22,7 +22,7 @@ The point is to find out what actually holds up, so that what I bring into a pro
 
 | Repository | What it tests |
 |---|---|
-| [RatNav](https://github.com/mrthames/RatNav) | Desktop and real-time overlay. A WPF app, a local .NET service, and a React control panel, with 300+ unit tests and a GitHub Actions release train. Run like a product: versioned releases, a changelog split by who reads it, and a backlog fed by recorded sessions with real users. |
+| RatNav | Private. Desktop and real-time overlay. A WPF app, a local .NET service, and a React control panel, with 300+ unit tests and a GitHub Actions release train. Run like a product: versioned releases, a changelog split by who reads it, and a backlog fed by recorded sessions with real users. |
 | [simple-pitch-counter](https://github.com/mrthames/simple-pitch-counter) | End-to-end mobile delivery, concept through App Store review. [simplepitchcounter.com](https://simplepitchcounter.com) |
 | pm-workspace | Private. Agentic workflows against real work: rules-as-code, scheduled agents, and product operating artifacts (PRDs, status logs, decision trails). |
 | wargear-agent | Private. Autonomous agent that plays Wargear.net, a turn-based strategy game. Browser automation, game state memory, and strategic decision-making. Where I learn how agents fail when nobody is watching. |
