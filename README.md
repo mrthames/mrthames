@@ -49,7 +49,7 @@ Husband and father. Outdoorsman, builder, AI enthusiast.
 
 Senior PM with 14+ years across automotive technology, electronic vehicle registration, and luxury auction. Currently focused on agentic AI inside the enterprise: fitting agents into legacy architecture, established processes, and existing teams in a way that shortens operational timelines without losing the governance and rigor that make adoption sustainable.
 
-Day to day that also means building working prototypes rather than writing specs, and putting them in front of stakeholders so they can react to something real instead of arguing about a document.
+Day to day that also means building working prototypes rather than writing specs, and putting them in front of stakeholders so they can react to something real. Alignment is hard to reach verbally, or from a document alone. It comes much faster when there is something tangible in front of people.
 
 More at [justinthames.com](https://justinthames.com).
 
