@@ -20,6 +20,7 @@ Things I've built with AI-native development, partly for fun and partly to keep 
 |---|---|
 | RatNav | Private. Windows planner and in-game overlay for Escape from Tarkov. A WPF desktop app, a local .NET service and a React control panel, with 300+ unit tests and a GitHub Actions release train behind every build. |
 | [simple-pitch-counter](https://github.com/mrthames/simple-pitch-counter) | iOS and Android app, built and shipped end to end. [simplepitchcounter.com](https://simplepitchcounter.com) |
+| [simple-fielding](https://github.com/mrthames/simple-fielding) | Its companion: an interactive whiteboard for youth baseball and softball defense, driven by a rules-based play engine. Web app now, native apps next. [simplefielding.com](https://simplefielding.com) |
 | pm-workspace | Private. Personal PM workspace built around agentic workflows: CLAUDE.md rules, agent automation, and product operating artifacts (PRDs, status logs, decision trails). |
 | wargear-agent | Private. Autonomous agent that plays Wargear.net, a turn-based strategy game. Browser automation, game state memory, and strategic decision-making. |
 | nas-assistant | Private. Signal-to-Claude Code bridge for managing self-hosted NAS services through a messaging interface. |
